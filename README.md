@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# IPLoyalty
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+IPLoyalty is a smart contract system that implements a loyalty program for creators and IP holders, integrating with the Story Protocol ecosystem.
+## 📦 Installation
 
-Try running some of the following tasks:
+Clone the repo and install dependencies:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+```bash
+git clone https://github.com/your-org/iployalty.git
+cd iployalty
+yarn install
